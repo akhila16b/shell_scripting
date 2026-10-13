@@ -2,6 +2,7 @@
 
 start_time=$(date +%s)
 echo "Start time = $start_time"
+sleep 20
 end_time=$(date +%s)
 echo "End time = $end_time"
 
